@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **yashasrn33@gmail.com**
 
-- 📄 Know about my experiences [Yashas_resume](Yashas_resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C06NeAWu0tFMV7i3Cyy9xwQs7JqK2P0h/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
