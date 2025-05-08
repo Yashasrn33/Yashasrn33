@@ -68,7 +68,7 @@ me.say_hi()
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashasrn33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasrn33&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashasrn33&theme=tokyonight" alt="GitHub Streak" />"
 </div>
 
 ## 📫 How to reach me
@@ -121,9 +121,8 @@ me.say_hi()
 *"Integrated ML-driven Agricultural Technology Platform for Personalized Recommendations, Resource Management, Market Participation"* 
 
 ---
-
-<div align="center">
+<!-- <div align="center"> //
   <img src="https://komarev.com/ghpvc/?username=yashasrn33&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+</div> -->
 
-⭐️ From [yashas](https://github.com/yashasrn33)
+⭐️ From [yashasrn33](https://github.com/yashasrn33)
