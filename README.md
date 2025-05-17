@@ -81,38 +81,38 @@ me.say_hi()
 
 ## 🚀 Projects & Impact
 
-### [Loan Approval Prediction System](https://github.com/yashasnaidu/loan-prediction)
+### [Loan Approval Prediction System](https://github.com/yashasrn33/loan-prediction)
 - 💰 Built an end-to-end loan approval system with **92% accuracy** using **Ensemble Models**
 - 🔍 Implemented **Recursive Feature Elimination (RFE)** to identify key financial indicators
 - 📊 Created interactive dashboard visualizing approval patterns across demographics
 - 🛠️ **Technologies**: Python, Scikit-learn, XGBoost, Pandas, Flask, Docker, Streamlit
 
-### [Flipkart Sentiment Analysis](https://github.com/yashasnaidu/flipkart-sentiment)
+### [Flipkart Sentiment Analysis](https://github.com/yashasrn33/flipkart-sentiment)
 - 📱 Analyzed **100K+** product reviews from Flipkart's e-commerce platform
 - 🧠 Achieved **89% classification accuracy** using **BERT** fine-tuning for Indian context
 - 📈 Generated actionable product insights by extracting key sentiment drivers
 - 🌐 Deployed as interactive web app for real-time product sentiment monitoring
 - 🛠️ **Technologies**: Python, PyTorch, Transformers, NLTK, FastAPI, React, MongoDB
 
-### [NYC Taxi Fare Analysis](https://github.com/yashasnaidu/nyc-taxi-fare-analysis)
+### [NYC Taxi Fare Analysis](https://github.com/yashasrn33/nyc-taxi-fare-analysis)
 - 📊 Analyzed **3.2M+** NYC taxi records using **Apache Spark** and **Databricks**
 - 📈 Achieved **RMSE: 5.2** and **R²: 0.68** with PySpark Linear Regression model
 - 🔍 Built interactive dashboards revealing key transportation pattern insights
 - 🛠️ **Technologies**: PySpark, Databricks, Spark SQL, Matplotlib, Big Data
 
-### [Kisan Bandhu: AI-powered Agricultural Platform](https://github.com/yashasnaidu/kisan-bandhu)
+### [Kisan Bandhu: AI-powered Agricultural Platform](https://github.com/yashasrn33/kisan-bandhu)
 - 🌱 Helped **200+ farmers** with AI-driven crop recommendations
 - 📈 Improved crop yield prediction accuracy by **25%**
 - 🔄 Integrated real-time weather APIs for dynamic recommendations
 - 🛠️ **Technologies**: Python, Flask, SQLite, Linear Regression, OpenWeatherMap API
 
-### [Handwritten Digit Recognition](https://github.com/yashasnaidu/digit-recognition)
+### [Handwritten Digit Recognition](https://github.com/yashasrn33/digit-recognition)
 - 🧠 Built CNN classifier achieving **95% accuracy** on MNIST dataset
 - 🚀 Deployed as containerized web app using **Flask** and **Docker**
 - 📷 Reduced input errors by **40%** with OpenCV preprocessing
 - 🛠️ **Technologies**: TensorFlow, Keras, CNN, OpenCV, Flask, Docker
 
-### [Air Canvas: Gesture-Based Drawing](https://github.com/yashasnaidu/air-canvas)
+### [Air Canvas: Gesture-Based Drawing](https://github.com/yashasrn33/air-canvas)
 - 👋 Created touchless drawing tool with real-time hand tracking
 - 🎨 Implemented HSV color filtering for **30% better** gesture recognition
 - 🛠️ **Technologies**: Python, OpenCV, NumPy, Computer Vision
